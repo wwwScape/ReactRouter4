@@ -2,6 +2,8 @@
 
 ![pictrue](./pic.png)
 
+[React-RouterV2/V3 迁移到 V4](https://github.com/ReactTraining/react-router/blob/master/packages/react-router/docs/guides/migrating.md)
+
 ### 创建react项目,并安装react-router-dom
 
 	npm install create-react-app -g
