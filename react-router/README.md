@@ -17,7 +17,7 @@ Router是所有路由组件共用的底层接口，一般我们的应用并不�
 	
 	<NativeRouter>
 	
-	<StaticRouter\>
+	<StaticRouter>
 
 Route组件主要的作用就是当一个location匹配路由的path时，渲染某些UI。
 
